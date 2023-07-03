@@ -6,7 +6,7 @@ const Navbar = () => {
   return (
     <>
     <div style={{display : 'flex', alignItems: 'space-between'}}>
-        <span>Redux Store</span>
+        <span>Redux Store updated now</span>
         <div>
             <Link className='navLink p-3' to='/'>Home</Link>
             <Link className='navLink ms-2 p-3' to='/Cart'>Cart</Link>
